@@ -1,0 +1,19 @@
+{
+  "name": "@dinobacon/hello-world",
+  "version": "0.1.0",
+  "description": "alert saying hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/DinoBacon/Lab-9/blob/main/README.md)"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Wesley Emmert",
+  "license": "ISC"
+}
